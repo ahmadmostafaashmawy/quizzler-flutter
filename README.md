@@ -1,4 +1,4 @@
-# micard
+# quizzler
 
 A new Flutter application.
 
